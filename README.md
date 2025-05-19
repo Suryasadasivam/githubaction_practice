@@ -1,1 +1,1 @@
-## This is the python appa for practice gitaction
+## This is the python app for practice git action
